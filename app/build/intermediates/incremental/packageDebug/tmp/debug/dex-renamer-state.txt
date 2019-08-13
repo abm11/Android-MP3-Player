@@ -1,0 +1,4 @@
+#Mon Nov 19 14:46:00 GMT 2018
+base.0=C\:\\Users\\abm11\\Google Drive\\Uni Work\\Comp Sci - Yr 3\\Mobile Device Programming\\MP3Player\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 18 15:52:27 GMT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\abm11\\Google Drive\\Uni Work\\Comp Sci - Yr 3\\Mobile Device Programming\\MP3Player\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
